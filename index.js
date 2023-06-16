@@ -6,12 +6,12 @@ const element = (
         src="https://assets.ccbp.in/frontend/react-js/rcb-img.png"
         className="size"
         alt="name"
-      ></img>
+      />
       <img
         src="https://assets.ccbp.in/frontend/react-js/csk-img.png"
         className="size"
         alt="name"
-      ></img>
+      />
     </div>
   </div>
 );
